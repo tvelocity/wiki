@@ -111,44 +111,44 @@ agree to create an international non-profit association according to Belgian law
   * i) to report every year to the Association on party and policy developments.
 
 (3) They have the following rights:
-* a) to vote in the Council on every matter,
-* b) to participate in the political discussions and to speak at Council meetings,
-* c) to participate in the development of the political agenda,
-* d) to participate in the decision making process,
-* e) to have access to all non-confidential documents of the Association,
-* f) to table resolutions and amendments as well as contribute other items to the agenda of Council meetings,
-* g) to participate in common campaigns,
-* h) to appoint delegates and propose candidates for the Board
-* i) to have access to use of the Associations logo and other representational devices.
+  * a) to vote in the Council on every matter,
+  * b) to participate in the political discussions and to speak at Council meetings,
+  * c) to participate in the development of the political agenda,
+  * d) to participate in the decision making process,
+  * e) to have access to all non-confidential documents of the Association,
+  * f) to table resolutions and amendments as well as contribute other items to the agenda of Council meetings,
+  * g) to participate in common campaigns,
+  * h) to appoint delegates and propose candidates for the Board
+  * i) to have access to use of the Associations logo and other representational devices.
 
 ##### Article 8 – Observer Members
 
 (1) Eligible as Observer Members are
- * a) all parties which
-  * (i) are established as a political party or in another form, if their region, country or state does not allow them to become a party (or makes it very difficult for them), in a region, country or state of at least a part of the geographical Europe,
-  * (ii) are subordinate to another Ordinary Member Party or one eligible to become such a member party,
-  * (iii) carry the term „Pirate“ or any translation of that term somewhere in their party or organisation name,
-  * (iv) intend to participate in elections in their region, country or state, if legally possible and feasible,
-  * (v) maintain a democratic political base and a democratic internal structure,
-  * (vi) are politically active,
-  * (vii) accept and intend to comply with the regulations of these Statutes and orders of its bodies and
-  * (viii) accept the Pirate Manifesto.
- * b) all parties which
-  * (i) are established as a political party or in another form, if their region, country or state does not allow them to become a party  (or makes it very difficult for them), in a region, country or state outside of geographical Europe,
-  * (ii) are not subordinate to another party or organisation,
-  * (iii) carry the term „Pirate“ or any translation of that term somewhere in their party or organisation name,
-  * (iv) intend to participate in elections in their region, country or state, if legally possible and feasible,
-  * (v) maintain a democratic political base and a democratic internal structure,
-  * (vi) are politically active,
-  * (vii) accept and intend to comply with the regulations of these Statutes and orders of its bodies and
-  * (viii) strive for similar political goals as the Association.
- * c) All organisations which
-  * (i) carry the term „Pirate“ or any translation of that term somewhere in their organisation name,
-  * (ii) maintain a democratic political base and a democratic internal structure,
-  * (iii) are politically active,
-  * (iv) accept and intend to comply with the regulations of these Statutes and orders of its bodies and
-  * (v) strive for similar political goals as the Association and are closely linked to it.
- * d) The Pirate Group in the European Parliament and the European Pirate Youth Organisation and each Pirate Member of the European Parliament
+  * a) all parties which
+   * (i) are established as a political party or in another form, if their region, country or state does not allow them to become a party (or makes it very difficult for them), in a region, country or state of at least a part of the geographical Europe,
+   * (ii) are subordinate to another Ordinary Member Party or one eligible to become such a member party,
+   * (iii) carry the term „Pirate“ or any translation of that term somewhere in their party or organisation name,
+   * (iv) intend to participate in elections in their region, country or state, if legally possible and feasible,
+   * (v) maintain a democratic political base and a democratic internal structure,
+   * (vi) are politically active,
+   * (vii) accept and intend to comply with the regulations of these Statutes and orders of its bodies and
+   * (viii) accept the Pirate Manifesto.
+  * b) all parties which
+   * (i) are established as a political party or in another form, if their region, country or state does not allow them to become a party  (or makes it very difficult for them), in a region, country or state outside of geographical Europe,
+   * (ii) are not subordinate to another party or organisation,
+   * (iii) carry the term „Pirate“ or any translation of that term somewhere in their party or organisation name,
+   * (iv) intend to participate in elections in their region, country or state, if legally possible and feasible,
+   * (v) maintain a democratic political base and a democratic internal structure,
+   * (vi) are politically active,
+   * (vii) accept and intend to comply with the regulations of these Statutes and orders of its bodies and
+   * (viii) strive for similar political goals as the Association.
+  * c) All organisations which
+   * (i) carry the term „Pirate“ or any translation of that term somewhere in their organisation name,
+   * (ii) maintain a democratic political base and a democratic internal structure,
+   * (iii) are politically active,
+   * (iv) accept and intend to comply with the regulations of these Statutes and orders of its bodies and
+   * (v) strive for similar political goals as the Association and are closely linked to it.
+  * d) The Pirate Group in the European Parliament and the European Pirate Youth Organisation and each Pirate Member of the European Parliament
 
 (2) The Pirate Group in the European Parliament and the European Pirate Youth Organisation will be treated like an Ordinary Member concerning their rights and like an Observer Member concerning their obligations.
 
