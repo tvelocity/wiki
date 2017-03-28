@@ -68,6 +68,7 @@ agree to create an international non-profit association according to Belgian law
 ##### Article 5 - Objectives
 
 (1) Purpose of the organisation is to represent the European Pirate movement towards the European institutions and to work in the interest of its members by, amongst other things:
+
  * a) Facilitating coordination and cooperation between its members.
  * b) Assisting its members to promote the Pirate movement in Europe.
  * c) Taking as its principles the Pirate manifesto, as will be annexed to the statutes.
