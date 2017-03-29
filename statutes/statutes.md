@@ -53,7 +53,7 @@ agree to create an international non-profit association according to Luxembourgi
 
 (2) The Association shall work as transparent as possible, regarding the protection of personal data and the right to privacy of the people involved.
 
-(3) The Association shall take into account the opinions of the individual Pirates who are members of any of the member parties. Important decisions shall be based on democratic principles for the inner workings of the Association.
+(3) The Association shall take into account the opinions of the individual Pirates who are members of any of the members. Decisions shall be based on democratic principles for the inner workings of the Association.
 
 (4) The Association shall adhere to all regulations necessary to being recognized as a Party at European level and a non-profit organization in Luxemburg.
 
