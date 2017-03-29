@@ -85,20 +85,21 @@ agree to create an international non-profit association according to Luxembourgi
 ##### Article 7 – Ordinary Members
 
 (1) Eligible as Ordinary Members are all parties which
-* a) are established as a political party or in another form, if their country or state does not allow them to become a party (or makes it very difficult for them) in a country or state of the European Union OR in a country or state which territory lies at least partly in the geographical Europe,
-* b) are not subordinate to any other party in this country or state,
-* c) carry the term „Pirate“ or any translation of that term somewhere in their party name,
-* d) intend to participate in elections to the European Parliament or their national parliament,
-* e) maintain a democratic political base and a democratic internal structure,
-* f) are politically active,
-* g) accept and comply with the regulations of these Statutes and orders of its bodies and
-* h) accept the Pirate Manifesto.
+* a) are established as a political party or in another form, if their country or state does not allow them to become a party (or makes it very difficult for them),
+* b) are established in a Member state of the European Union or in a country or state which territory lies at least partly in the geographical Europe,
+* c) are not subordinate to any other party in this country or state,
+* d) carry the term „Pirate“ or any translation of that term somewhere in their party name,
+* e) intend to participate in elections to the European Parliament or their national parliament,
+* f) maintain a democratic political base and a democratic internal structure,
+* g) are politically active,
+* h) accept and comply with the regulations of these Statutes and orders of its bodies and
+* i) accept the Pirate Manifesto.
 
 (2) Ordinary Members have the following obligations:
 * a) to comply with all the regulations of the Statutes of the Association and all orders of the bodies of the Association,
 * b) to cease and desist any actions which may harm the Association or are contrary to the objectives and principles of the Association or go against the policies laid down in the Pirate Manifesto or damage the Association in any other way,
-* g) to conduct their financial organisation in a transparent and accountable manner,
-* h) to pay their designated fee as Ordinary Members in a timely manner 
+* c) to conduct their financial organisation in a transparent and accountable manner,
+* d) to pay their designated fee as Ordinary Members in a timely manner 
 
 (3) Ordinary Members have the following rights:
 * a) to vote in the Council on every matter,
@@ -108,15 +109,15 @@ agree to create an international non-profit association according to Luxembourgi
 * e) to have access to all non-confidential documents of the Association,
 * f) to table resolutions and amendments as well as contribute other items to the agenda of Council meetings,
 * g) to participate in common campaigns,
-* h) to appoint delegates and propose candidates for the Board
+* h) to appoint delegates and propose candidates for the Board,
 * i) to have access to use of the Association's logo and other representational devices.
 
 ##### Article 8 – Observer Members
 
 (1) Eligible as Observer Members are each individual Pirate Member of the European Parliament and all organisations which
-* a) strive for similar political goals as the Association and are closely linked to it.
+* a) strive for similar political goals as the Association and are closely linked to it,
 * b) maintain a democratic political base and a democratic internal structure,
-* c) accept and intend to comply with the regulations of these Statutes and orders of its bodies
+* c) accept and intend to comply with the regulations of these Statutes and orders of its bodies.
 
 (2) Observer Members have the following obligations:
 * a) to comply with all the regulations of the Statutes of the Association and all orders of the bodies of the Association,
