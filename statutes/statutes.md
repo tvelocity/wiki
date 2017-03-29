@@ -234,7 +234,8 @@ agree to create an international non-profit association according to Luxembourgi
 (4) The Council may validly decide to dissolve the association or amend the statutes only in accordance with the provisions of Luxembourgish law of 21 April 1928 on non-profit associations (ASBL) and foundations, as amended.
 
 (5) On the proposal of one-third of the Ordinary Members any member of the Board may be dismissed by the Council by a two-thirds majority of the votes cast after debate in Council where the member is given adequate opportunity to present their case.
-Meetings
+
+**Meetings**
 
 (6) The Council will meet at least once in a calendar year, more often if requested by at least quarter of the Ordinary Members or by a decision of the Board or Council. 
 
