@@ -307,10 +307,10 @@ agree to create an international non-profit association according to Belgian law
 
 (4) All posts will be voted on separately, but if more than one person shall be elected for a certain position (e.g. two Vice-Chairpersons and the Board members without a special function), the election may be done in one round of voting.
 
-(5) If only one candidate is to be elected, the candidate who gains more than 50% of the votes cast and most of the votes in the first round, is the person elected. 
+(5) If only one candidate is to be elected, the candidate who gains more than 50% of the votes cast and most of the votes in the first round, is the person elected.
 Should no candidate gain more than 50% of the first round voting, a second round will be run between the two highest scoring candidates. The candidate who receives more than 50% of the votes cast and most of the votes in the second round is elected.
 
-(6) If several candidates are to be elected, the candidates who gain more than 50% of the votes cast in order of the highest result to the lowest are elected, until all positions are filled. 
+(6) If several candidates are to be elected, the candidates who gain more than 50% of the votes cast in order of the highest result to the lowest are elected, until all positions are filled.
 If not enough candidates have reached 50% of the votes cast, a second round of voting will be held. In the second round only those candidates who got the highest number of votes will be eligible. The number of candidates shall be double the number of positions still needing to be filled. The candidates who gain more than 50% of the votes cast in order of the highest result to the lowest are elected in the second round, until all positions are filled.
 
 (7) The Council may decide on additional rounds of voting and the admission of new candidates, if a position could not be filled.
