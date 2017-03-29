@@ -66,7 +66,7 @@ agree to create an international non-profit association according to Luxembourgi
 (1) Purpose of the organisation is to represent the European Pirate movement towards the European institutions and to work in the interest of its members by, amongst other things:
 * a) Facilitating coordination and cooperation between its members.
 * b) Assisting its members to promote the Pirate movement in Europe.
-* d) Functioning as a link between European Pirate Parties and Pirate Members of the European Parliaments.
+* c) Functioning as a link between European Pirate Parties and Pirate Members of the European Parliaments.
 
 ### Members
 
