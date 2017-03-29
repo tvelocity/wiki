@@ -121,6 +121,7 @@ The Association does not undertake industrial or commercial transactions and doe
 * i) to have access to use of the Associations logo and other representational devices.
 
 ##### Article 8 – Observer Members
+
 (1) Eligible as Observer Members are
 * a) all parties which
  * (i) are established as a political party or in another form, if their region, country or state does not allow them to become a party (or makes it very difficult for them), in a region, country or state of at least a part of the geographical Europe,
