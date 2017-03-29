@@ -27,23 +27,28 @@ agree to create an international non-profit association according to Belgian law
 
 ## CONSTITUTION
 ### General Provisions
+
 ##### Article 1 – Name
+
 (1) The official name of the association shall be “European Pirate Party” and „European Pirates“, abbreviated “PPEU” or „PIRATES“. Both the full and the abbreviated names may be used indistinguishably.
 
 (2) A list of official translations of the association's name which may be used by the member parties is included in Annex A.
 
 ##### Article 2 – Seat
+
 (1) The seat of the European Pirate Party is situated at 1a rue de Luxembourg, L-8184 Kopstal, Luxembourg.
 
 (2) The Council may move the seat anywhere in Luxembourg by simple majority vote. To move it to any other location the Council has to decide unanimously.
 
 ##### Article 3 - Language
+
 (1) In the event of divergence or of doubt between these statutes in the original version in English and any version in another language, the English language version prevails.
 
 (2) English shall be the working language of the Association. Any initiatives and proposals can only be adopted, if they have been translated into English prior to the start of the decision-making-process on the level of the Association.
 
 ### Aims and Goals
 ##### Article 4 – Principles
+
 (1) The Association shall pursue international aims in respect of the principles on which the European Union is based, namely principles of freedom, equality, solidarity, democracy, respect of Human Rights and Fundamental Freedoms, and respect for the Rule of Law.
 
 (2) The Association shall work as transparent as possible, regarding the protection of personal data and the right to privacy of the people involved.
@@ -59,6 +64,7 @@ agree to create an international non-profit association according to Belgian law
 (7) The Association may carry out all operations and conduct all activities (including real estate transactions), which directly or indirectly increase or promote its objectives under the condition that these activities adhere to the principles of this organisation stated in this article. The Association does not undertake industrial or commercial transactions and does not seek to procure a profit to its members.
 
 ##### Article 5 - Objectives
+
 (1) Purpose of the organisation is to represent the European Pirate movement towards the European institutions and to work in the interest of its members by, amongst other things:
 
 * a) Facilitating coordination and cooperation between its members.
@@ -69,6 +75,7 @@ agree to create an international non-profit association according to Belgian law
 
 ### Members
 ##### Article 6 – Membership
+
 (1) The number of members is unlimited, but may not be less than five Ordinary Members. All Members, except for natural persons, shall be legal entities constituted according to the laws and customs of their country of origin. If a member does not possess legal personality according to the laws and customs of its country of origin, it must appoint a natural person to act in the name and on behalf of its organisation and its members as a common attorney-in-fact. In case of a change of representation, the Board of the association is immediately informed in writing.
 
 (2) There are two categories of members: Ordinary Members and Observer Members.
@@ -78,6 +85,7 @@ agree to create an international non-profit association according to Belgian law
 (4) Within one month of announcement of the statutes, a list must be deposited with the company register (RCSL) , recording the name, legal form, address of the registered office, identity of the representative and, where applicable, the registration number in accordance with existing legislation and/or regulations of all the Ordinary members of the association in alphabetical order. The list shall be updated every year, at the latest 1 month after every Council meeting, by recording membership changes by name in alphabetical order.
 
 ##### Article 7 – Ordinary Members
+
 (1) Eligible as Ordinary Members are all parties which
 * a) are established as a political party or in another form, if their country or state does not allow them to become a party (or makes it very difficult for them) in a country or state of the European Union OR in a country or state which territory lies at least partly in the geographical Europe without being a member state of the European Union,
 * b) are not subordinate to any other party in this country or state,
