@@ -97,8 +97,8 @@ agree to create an international non-profit association according to Luxembourgi
 (2) Ordinary Members have the following obligations:
 * a) to comply with all the regulations of the Statutes of the Association and all orders of the bodies of the Association,
 * b) to cease and desist any actions which may harm the Association or are contrary to the objectives and principles of the Association or go against the policies laid down in the Pirate Manifesto or damage the Association in any other way,
-* g) to conduct their financial organisation in a transparent and accountable manner,
-* h) to pay their designated fee as Ordinary Members in a timely manner 
+* c) to conduct their financial organisation in a transparent and accountable manner,
+* d) to pay their designated fee as Ordinary Members in a timely manner.
 
 (3) Ordinary Members have the following rights:
 * a) to vote in the Council on every matter,
@@ -108,7 +108,7 @@ agree to create an international non-profit association according to Luxembourgi
 * e) to have access to all non-confidential documents of the Association,
 * f) to table resolutions and amendments as well as contribute other items to the agenda of Council meetings,
 * g) to participate in common campaigns,
-* h) to appoint delegates and propose candidates for the Board
+* h) to appoint delegates and propose candidates for the Board,
 * i) to have access to use of the Association's logo and other representational devices.
 
 ##### Article 8 – Observer Members
