@@ -417,8 +417,8 @@ Chairperson; Vice-Chairpersons; Treasurer; further Board Members
 * c) the destination to be given to the net assets of the Association. The net assets of the Association will have to be allocated to a non-profit purpose. They may be divided among the member parties according to their financial contributions.
 
 (7) All such decisions have to be duly filed and published according to the law.
-Transitional Provisions
 
+### Transitional Provisions
 ##### Art. 28 – Transitional Clause
 (1) Within 6 months from the day when the PPEU is recognised by the EU as a Political Party at the EU level an extraordinary convention shall convene to revise all statutes and in particular to decide on new paragraphes regulating
 * a) membership fee and
