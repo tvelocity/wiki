@@ -347,7 +347,6 @@ If not enough candidates have reached 50% of the votes cast, a second round of v
 (13) The Board must be elected anew completely, if the number of the active Board members in office drops below four. The Council may decide with a simple majority of the votes cast that a Board member is inactive. The remaining active Board members have to issue an invitation to an Extraordinary Council meeting. If no active Board members are left, any Ordinary Member may issue an invitation to an Extraordinary Council meeting acting by at least one of their official delegates. The Extraordinary Council meeting shall only convene to elect a new Board. No other topics may be decided upon. Except for an appropriately shortened time between the invitation and the date of the Council meeting, all other rules regulating Ordinary Council meetings shall apply.
 
 ##### Art. 18 - Chairperson and Vice-Chairpersons
-
 (1) The Chairperson represents the association to the public. The Chairperson shall ensure that the Board convenes on regular intervals.
 
 (2) The Vice-Chairpersons shall support the Chairperson in their tasks and fulfil the Chairperson's obligations and tasks in their absence, if the chairperson is hindered to fulfil their obligations and tasks or if the Board delegates a task or obligation to them.
