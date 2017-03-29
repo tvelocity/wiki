@@ -353,7 +353,6 @@ If not enough candidates have reached 50% of the votes cast, a second round of v
 (2) The Vice-Chairpersons shall support the Chairperson in their tasks and fulfil the Chairperson's obligations and tasks in their absence, if the chairperson is hindered to fulfil their obligations and tasks or if the Board delegates a task or obligation to them.
 
 ##### Art. 19 - Treasurer
-
 (1) The main focus of this function is to supervise the budget and the accounts and to exercise financial control. All payments are made by the Treasurer or the person authorized to make payments.
 
 (2) The Treasurer will initiate legal ways to enlarge the financial means of the Association.
@@ -367,14 +366,12 @@ If not enough candidates have reached 50% of the votes cast, a second round of v
 (6) The Treasurer is responsible for the grant application to the European Parliament and the implementation and execution of the financial rules.
 
 ##### Art. 20 - Representation
-
 (1) The Board represents the Association in all judicial and extra judicial acts. Represented by the Chairperson or the person substituting for them, it acts as plaintiff or defendant in all the judicial actions and decides whether or not to use recourse. The Board may appoint an attorney-in-fact, and is legally bound by acts of such a person within the limits of their power of attorney.
 
 (2) The Chairperson, the Vice-Chairperson, the Treasurer, and any person so appointed by the Board are individually authorised to legally represent the association and to sign contracts on behalf of the association.
 
 ### Finances
 ##### Art. 21 – Financial Provisions
-
 (1) The financial year of the Association shall run from 1 January to 31 December of the same year.
 
 (2) At the end of each financial year, the Board shall adopt the annual accounts for the past financial year and the budget for the next year in the manner provided for by law and shall then submit them annually for approval by the Council.
@@ -388,13 +385,11 @@ If not enough candidates have reached 50% of the votes cast, a second round of v
 (7) The Board shall ensure that the annual accounts and the other documents referred to in the Law on Not-for-profit Associations are deposited within thirty (30) days of approval at the Company Registrar (RCSL).
 
 ##### Art. 22 – Reimbursement
-
 (1) The Council may decide to grant reimbursement of costs in relation with offices and functions fulfilled for the Association, if the financial situation of the Association allows. This decision will be made at the annual Council meeting together with the adoption of the budget for the next year.
 
 (2) The Association will only reimburse the travel costs or accommodation costs or other costs relating to each meeting under presentation of original receipts and tickets. The original tickets/receipts for any event, including the Council meetings, must be send to the PPEU office before the last day of February of the year after the event. After that date, no reimbursement may be requested.
 
 ##### Art. 23 – Audit
-
 (1) If, pursuant to the provisions applicable to it, the Association is so required, auditing of the financial condition, annual accounts and their regularity from the point of view of the Law on Not-for-profit Associations and the status of transactions to be reflected in the annual accounts shall be entrusted to one or more auditors appointed by the Council from among the members of the Luxembourgish Institute of Company Auditors (Institut des réviseurs d'entreprises (IRE)).
 
 (2) The Council shall determine the number of auditors and their remuneration. The auditors shall be appointed for a renewable term of three years. The Council may revoke their mandates at any time, but have to appoint new auditors at the same time. Any auditor appointed to replace an auditor who has resigned in the course of his term of office completes the latter’s term.
@@ -405,13 +400,11 @@ If not enough candidates have reached 50% of the votes cast, a second round of v
 
 ### Change of Statutes and the Pirate Manifesto and Decision-making-Process
 ##### Article 24 - Decision-making-Process
-
 (1) If not otherwise specified in these Statutes, all decisions taken by the Council or the Board will be decided by a simple majority of the votes cast.
 
 (2) All votes will be public and published in the minutes of a meeting, including those for elections. They shall be done in writing, if appropriate. Votes done in writing are usually appropriate for the election of members of the Board. To fulfil the requirement of a written vote, an email or chat protocol will be enough. Abstentions will not be taken into account.
 
 ##### Article 25 – Change of Statutes
-
 (1) Proposals must be presented in writing by any means (electronic, paper or otherwise) to the Board which will transmit them to the Members of the Council for deliberation at least four weeks prior to the meeting at which the Council will deliberate and decide on those proposals. The proposed amendments to the Articles of Association must be attached to the notice calling the meeting of the Council. A reference to a website displaying the proposed changes of the Statutes would also be sufficient.
 
 (2) Decisions regarding amendments to the Statutes can only be taken if there is an attendance quota of two-thirds of the members entitled to vote present or represented and shall be taken with a double majority of two-thirds of the votes cast by two-thirds of the Ordinary Members taking part in the voting, except for decisions on the Principles (Art. 4) and Objectives (Art. 5) where consent of all the Ordinary Council Members is necessary.
@@ -419,14 +412,12 @@ If not enough candidates have reached 50% of the votes cast, a second round of v
 (3) Any decision amending the Statutes shall be submitted to the Company Registrar (RCSL) and published according to the law.
 
 ##### Art. 26 – Change of the Pirate Manifesto
-
 (1) The Pirate Manifesto combines the identified common policies of the member parties in a document representing the common policies of the Association and is an integral part of these Statutes.
 
 (2) Any changes to the Pirate Manifesto will be following the same procedure as those to the Statutes.
 
 ### Duration and Dissolution
 ##### Article 27 – Duration and Dissolution
-
 (1) The Association shall be set up for an unlimited period of time.
 
 (2) The Association is not dissolved as a result of the death, dissolution or resignation of a member, provided the number of members is not less than five Ordinary Members.
