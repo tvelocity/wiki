@@ -149,7 +149,7 @@ agree to create an international non-profit association according to Luxembourgi
 
 (1) A Member that changes their name or merges with another political party/organisation must inform the Board.
 
-(2) The Board shall assess the degree of continuity of the new party/organisation with the Association's member and will decide on the confirmation of the membership status. 
+(2) The Board shall assess the degree of continuity and membeship criteria fulfillment of the new party/organisation with the Association's member and will decide on the confirmation of the membership status. 
 
 (3) In case of confirmation of the continuity of the membership status; the member will be considered having accepted the Association's decisions applicable to the former member and will be responsible for all its obligations vis-à-vis the Association, including financial.
 
