@@ -170,11 +170,13 @@ The Association does not undertake industrial or commercial transactions and doe
 (6) A party which is eligible to become an Ordinary Member may decide to apply only for the status of an Observer Member. It may at any time apply for Ordinary Member status, if it fulfils the necessary conditions. The procedure is detailed under Art. 10 (Procedure for admitting new Members) and needs to be repeated to change the membership status.
 
 ##### Article 10 – Procedure for admitting new Members
+
 (1) To be eligible to become a Member of the Association, any aspiring party, organisation or individual needs to send an application to the Board of the Association to the address of the official seat. An email will suffice.
 
 (2) The membership is granted, if the Council decides on it with a two-third majority. The Council shall give reasons for accepting or rejecting applications. As soon as the decision of the Council is valid and the new member has paid its membership fee, it may exercise all its rights and is bound to all obligations of its membership.
 
 ##### Article 11 – Change of name and mergers
+
 (1) A Member that changes their name or merges with another political party/organisation must inform the Board.
 
 (2) The Board shall assess the degree of continuity of the new party/organisation with the Association's member and will decide on the confirmation of the membership status. This decision shall be confirmed by the Council. Both decisions require a two-third majority.
@@ -184,6 +186,7 @@ The Association does not undertake industrial or commercial transactions and doe
 (4) In case of non-confirmation, the Council shall give reasons for the decision and the new party/organisation may submit a new application for membership.
 
 ##### Article 12 – Resignation, Exclusion, Suspension, Loss of Membership and Death / Dissolution / Bankruptcy
+
 (1) Any member, whatever their identity, may at any time resign from the Association. The resignation must be notified to the Board by registered letter from a duly mandated person to the registered office of the Association. The resignation shall come into effect immediately or as otherwise specified in the letter of resignation, but the member resigning remains bound by all outstanding debts contracted with the Association until the end of the financial year in which the resignation came into effect.
 
 (2) If a new Ordinary Member Party is superordinate to an existing Ordinary Member Party, the subordinate party shall automatically become an Observer Member Party.
@@ -207,6 +210,7 @@ The Association does not undertake industrial or commercial transactions and doe
 (10) They may not demand or claim a report, statement of accounts, sealing or inventory.
 
 ##### Article 13 – Membership Fees
+
 (1) A fee is requested of the Ordinate Member parties. The amount of which is set annually by the Council on proposal of the Board represented by the Treasurer. The Treasurer will meet up with all the Ordinary Member Parties' Treasurers to discuss the obligations of the member parties in regard to the annual fee in advance of the first Council meeting of the year. The Ordinary Member Parties have to hand out to the Treasurer a copy of their last annual account in advance of the meeting. If no agreement can be reached, the member parties will pay the same fee as last year. Membership Fees are fixed in Euro; they are payable without deduction of incurred costs.
 
 (2) The annual Membership Fees of the Association's Ordinary Members consist of a basic fee and an additional part based on decision of the Council.
@@ -261,6 +265,7 @@ The Association does not undertake industrial or commercial transactions and doe
 (10) Minutes of all Council meetings will be published on an appropriate website of the Association at the latest six weeks after a Council meeting. The minutes shall entail all decisions of the Council and the votes of each Ordinary member, the Pirate Group in the European Parliament and the Young Pirates of Europe (YPE).
 
 ##### Article 15 - Allocation of Votes and Delegates
+
 (1) Each Ordinary Member has a minimum entitlement of one vote.
 
 (2) The Ordinary Member is entitled to one additional vote for each of the following thresholds reached during the last National or European elections: 150.000 votes; 400.000 votes; 800.000 votes; 1.200.000 votes; 1.600.000 votes; 2.000.000 votes and every additional million votes. The Ordinary Member is entitled to a supplementary vote for each of the following thresholds reached during the last National or European elections: 4%, 8%, 12%, 16% and 20%.
@@ -288,6 +293,7 @@ The Association does not undertake industrial or commercial transactions and doe
 
 #### Board
 ##### Article 16 - Composition and Powers of the Board
+
 (1) The Board consists of one Chairperson, two Vice-Chairpersons, one Treasurer, and up to five Board members.
 
 (2) The Board is responsible for the permanent political representation of the European Pirate Party, the execution of the Council's decisions and the activities of the European Pirate Party's office.
@@ -309,6 +315,7 @@ The Association does not undertake industrial or commercial transactions and doe
 (11) Any appointment, resignation or dismissal of a member of the Board must be deposited with the registry of the commercial court and published in the Annex to the Belgian State Gazette.
 
 ##### Art. 17 - Election of the Board Members
+
 (1) Each candidate must be nominated by an Ordinary Member.
 
 (2) All nominations must specify the particular post for which the candidate is being proposed (i.e. Chairperson, Vice-Chairperson, Treasurer or a Board Member without a special function). Each Ordinary Member may nominate and support several candidates.
@@ -339,11 +346,13 @@ If not enough candidates have reached 50% of the votes cast, a second round of v
 (13) The Board must be elected anew completely, if the number of the active Board members in office drops below four. The Council may decide with a simple majority of the votes cast that a Board member is inactive. The remaining active Board members have to issue an invitation to an Extraordinary Council meeting. If no active Board members are left, any Ordinary Member may issue an invitation to an Extraordinary Council meeting acting by at least one of their official delegates. The Extraordinary Council meeting shall only convene to elect a new Board. No other topics may be decided upon. Except for an appropriately shortened time between the invitation and the date of the Council meeting, all other rules regulating Ordinary Council meetings shall apply.
 
 ##### Art. 18 - Chairperson and Vice-Chairpersons
+
 (1) The Chairperson represents the association to the public. The Chairperson shall ensure that the Board convenes on regular intervals.
 
 (2) The Vice-Chairpersons shall support the Chairperson in their tasks and fulfil the Chairperson's obligations and tasks in their absence, if the chairperson is hindered to fulfil their obligations and tasks or if the Board delegates a task or obligation to them.
 
 ##### Art. 19 - Treasurer
+
 (1) The main focus of this function is to supervise the budget and the accounts and to exercise financial control. All payments are made by the Treasurer or the person authorized to make payments.
 
 (2) The Treasurer will initiate legal ways to enlarge the financial means of the Association.
@@ -357,12 +366,14 @@ If not enough candidates have reached 50% of the votes cast, a second round of v
 (6) The Treasurer is responsible for the grant application to the European Parliament and the implementation and execution of the financial rules.
 
 ##### Art. 20 - Representation
+
 (1) The Board represents the Association in all judicial and extra judicial acts. Represented by the Chairperson or the person substituting for them, it acts as plaintiff or defendant in all the judicial actions and decides whether or not to use recourse. The Board may appoint an attorney-in-fact, and is legally bound by acts of such a person within the limits of their power of attorney.
 
 (2) The Chairperson, the Vice-Chairperson, the Treasurer, and any person so appointed by the Board are individually authorised to legally represent the association and to sign contracts on behalf of the association.
 
 ### Finances
 ##### Art. 21 – Financial Provisions
+
 (1) The financial year of the Association shall run from 1 January to 31 December of the same year.
 
 (2) At the end of each financial year, the Board shall adopt the annual accounts for the past financial year and the budget for the next year in the manner provided for by law and shall then submit them annually for approval by the Council.
@@ -376,11 +387,13 @@ If not enough candidates have reached 50% of the votes cast, a second round of v
 (7) The Board shall ensure that the annual accounts and the other documents referred to in the Law on Not-for-profit Associations are deposited within thirty (30) days of approval at the Company Registrar (RCSL).
 
 ##### Art. 22 – Reimbursement
+
 (1) The Council may decide to grant reimbursement of costs in relation with offices and functions fulfilled for the Association, if the financial situation of the Association allows. This decision will be made at the annual Council meeting together with the adoption of the budget for the next year.
 
 (2) The Association will only reimburse the travel costs or accommodation costs or other costs relating to each meeting under presentation of original receipts and tickets. The original tickets/receipts for any event, including the Council meetings, must be send to the PPEU office before the last day of February of the year after the event. After that date, no reimbursement may be requested.
 
 ##### Art. 23 – Audit
+
 (1) If, pursuant to the provisions applicable to it, the Association is so required, auditing of the financial condition, annual accounts and their regularity from the point of view of the Law on Not-for-profit Associations and the status of transactions to be reflected in the annual accounts shall be entrusted to one or more auditors appointed by the Council from among the members of the Luxembourgish Institute of Company Auditors (Institut des réviseurs d'entreprises (IRE)).
 
 (2) The Council shall determine the number of auditors and their remuneration. The auditors shall be appointed for a renewable term of three years. The Council may revoke their mandates at any time, but have to appoint new auditors at the same time. Any auditor appointed to replace an auditor who has resigned in the course of his term of office completes the latter’s term.
@@ -391,11 +404,13 @@ If not enough candidates have reached 50% of the votes cast, a second round of v
 
 ### Change of Statutes and the Pirate Manifesto and Decision-making-Process
 ##### Article 24 - Decision-making-Process
+
 (1) If not otherwise specified in these Statutes, all decisions taken by the Council or the Board will be decided by a simple majority of the votes cast.
 
 (2) All votes will be public and published in the minutes of a meeting, including those for elections. They shall be done in writing, if appropriate. Votes done in writing are usually appropriate for the election of members of the Board. To fulfil the requirement of a written vote, an email or chat protocol will be enough. Abstentions will not be taken into account.
 
 ##### Article 25 – Change of Statutes
+
 (1) Proposals must be presented in writing by any means (electronic, paper or otherwise) to the Board which will transmit them to the Members of the Council for deliberation at least four weeks prior to the meeting at which the Council will deliberate and decide on those proposals. The proposed amendments to the Articles of Association must be attached to the notice calling the meeting of the Council. A reference to a website displaying the proposed changes of the Statutes would also be sufficient.
 
 (2) Decisions regarding amendments to the Statutes can only be taken if there is an attendance quota of two-thirds of the members entitled to vote present or represented and shall be taken with a double majority of two-thirds of the votes cast by two-thirds of the Ordinary Members taking part in the voting, except for decisions on the Principles (Art. 4) and Objectives (Art. 5) where consent of all the Ordinary Council Members is necessary.
@@ -403,12 +418,14 @@ If not enough candidates have reached 50% of the votes cast, a second round of v
 (3) Any decision amending the Statutes shall be submitted to the Company Registrar (RCSL) and published according to the law.
 
 ##### Art. 26 – Change of the Pirate Manifesto
+
 (1) The Pirate Manifesto combines the identified common policies of the member parties in a document representing the common policies of the Association and is an integral part of these Statutes.
 
 (2) Any changes to the Pirate Manifesto will be following the same procedure as those to the Statutes.
 
 ### Duration and Dissolution
 ##### Article 27 – Duration and Dissolution
+
 (1) The Association shall be set up for an unlimited period of time.
 
 (2) The Association is not dissolved as a result of the death, dissolution or resignation of a member, provided the number of members is not less than five Ordinary Members.
@@ -430,6 +447,7 @@ If not enough candidates have reached 50% of the votes cast, a second round of v
 
 ### Transitional Provisions
 ##### Art. 28 – Transitional Clause
+
 (1) Within 6 months from the day when the PPEU is recognised by the EU as a Political Party at the EU level an extraordinary convention shall convene to revise all statutes and in particular to decide on new paragraphes regulating
 * a) membership fee and
 * b) voting allocation for the Council.
