@@ -245,7 +245,7 @@ agree to create an international non-profit association according to Luxembourgi
 
 (9) The Board will prepare the meetings. For Ordinary meetings all members shall be invited by email at least 4 weeks before the date of the Council meeting. In urgent cases, Extraordinary meeting may be called in shortened time. Only the item for which it was called may be decided on extraordinary meetings. Decisions on admittance, of a Member, Statutes Change or dissolution of the Association may not be decided on Extraordinary meeting.). The invitation to the Council meeting has to specify date, time, place and the draft agenda of the meeting. A link to a website with the agenda in the invitation shall be sufficient and necessary.
 
-(10) Save in the cases provided for in Articles 6 and 8 of the Luxembourgish law of 21 April 1929 on non-profit associations (ASBL) and foundations, as amended, the meeting may legitimately consider items not announced on the agenda, provided that all members of the Council are present and/or represented and so agree at the meeting by a simple majority vote of all the voting Ordinary Members.
+(10) Save in the cases provided for in Articles 6 and 8 of the Luxembourgish law of 21 April 1929 on non-profit associations (ASBL) and foundations, as amended, the meeting may legitimately consider items not announced on the agenda, provided that all Ordinary members are represented and so agree at the meeting by a simple majority vote.
 
 (11) Minutes of all Council meetings will be published on an appropriate website of the Association at the latest six weeks after a Council meeting. The minutes shall entail all decisions of the Council and the votes all delegates with voting rights.
 
@@ -380,9 +380,8 @@ Chairperson; Vice-Chairpersons; Treasurer; further Board Members
 (3) The auditors shall jointly or separately have an unlimited right to scrutinise any transactions of the Association. They may inspect on the premises the books, correspondence, minutes and generally any documents of the association.
 
 (4) The accounts of the Association are to be audited annually or as often as the law necessitates.
-Change of Statutes and the Pirate Manifesto and Decision-making-Process
 
-### Procedures 
+### Procedures
 
 ##### Article 25 – Decision-making-Process
 (1) If not otherwise specified in these Statutes, all decisions taken by the Council or the Board will be decided by a simple majority of the votes cast. Abstentions will not be taken into account.
@@ -396,7 +395,7 @@ Change of Statutes and the Pirate Manifesto and Decision-making-Process
 
 (3) Any decision amending the Statutes shall be submitted to the  Company Registrar (RCSL) and published according to the law.
 
-Art. 27 – Change of the Pirate Manifesto
+### Art. 27 – Change of the Pirate Manifesto
 (1) The Pirate Manifesto combines the identified common policies of the member parties in a document representing the common policies of the Association and is an integral part of these Statutes.
 
 (2) Any changes to the Pirate Manifesto will be following the same procedure as those to the Statutes.
@@ -412,7 +411,7 @@ Art. 27 – Change of the Pirate Manifesto
 
 (4) Except in the event of judicial dissolution and automatic dissolution due to the requirements of the law, the association may be prematurely dissolved only by a decision of the Council acting in accordance with Article 20 of the Luxembourgish Law on Not-for-profit Associations.
 
-(5) It may be dissolved by a double majority of two-thirds of the votes cast by two-thirds of the Ordinary Members taking part in the voting, with an attendance quota of two-thirds of the ordinary members. If the quota is not reached, a new meeting of the Council may be called. This second meeting of the Council shall be entitled to take valid decisions on the dissolution of the association irrespective of the attendance quota.
+(5) It may be dissolved by a double majority of two-thirds of the votes cast by two-thirds of the Ordinary Members taking part in the voting, with an attendance quota of two-thirds of the Ordinary Members. If the quota is not reached, a new meeting of the Council may be called. This second meeting of the Council shall be entitled to take valid decisions on the dissolution of the association irrespective of the attendance quota.
 
 (6) As from the moment the decision of dissolution is taken, the Association is required to mention at all times that it is ‘in dissolution’.
 
