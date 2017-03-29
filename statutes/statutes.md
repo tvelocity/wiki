@@ -318,7 +318,7 @@ If not enough candidates have reached 50% of the votes cast, a second round of v
 (8) Method of voting will be approval voting, meaning that every voter may have one vote per candidate.
 
 (9) The order of voting: 
-Chairperson; Vice-Chairpersons; Treasurer; further Board Members
+* Chairperson; Vice-Chairpersons; Treasurer; further Board Members
 
 (10) If a candidate is elected as a Board member and they accept, they will automatically loose any mandate as a delegate in the Council after the meeting of the Council is over. They may not accept a new delegation while still in office.
 
